@@ -8,10 +8,7 @@ def display_board(arr)
   puts " #{arr[6]}  | #{arr[7]}  | #{arr[8]}  "
 end
 
-def board
-
-end
 
 board_arr = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-board =
+
